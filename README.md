@@ -1,4 +1,4 @@
-# 📬 Email AI Agent
+# 📬 Email Automation System
 
 Automated daily email summarizer using **LangChain**, **Gemini**, and **Twilio WhatsApp API**.
 
